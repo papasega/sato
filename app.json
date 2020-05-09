@@ -1,8 +1,8 @@
 {
-  "name": "Sato crypto bot",
+  "name": "MathsPswBot",
   "description": "The server side for Sato.",
   "image": "heroku/python",
-  "repository": "https://github.com/Ahirice/sato",
+  "repository": "https://github.com/papasega/sato",
   "keywords": ["python", "flask" ],
   "addons": [ "heroku-postgresql" ],
   "environments": {
